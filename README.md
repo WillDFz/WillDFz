@@ -42,4 +42,4 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 -   📧 Email: [willwow@outlook.com]
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto(a) a colaborações e novas oportunidades!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades!
