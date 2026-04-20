@@ -15,7 +15,7 @@ Desenvolverdor Front-end
 
 Aqui estão algumas das tecnologias com as quais trabalho:
 
- <div style="display: inline_block"><br>
+ <div style="display: flex"><br>
    <img alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img alt="Will-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
