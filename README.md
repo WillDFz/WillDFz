@@ -1,6 +1,6 @@
 # William Dourado
 
-Desenvolvedor Front-end
+Desenvolvedor FullStack
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-will--dev.tech-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.will-dev.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-dourado-143527170/)
