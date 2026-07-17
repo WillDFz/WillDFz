@@ -31,8 +31,8 @@ Principais tecnologias com as quais trabalho:
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=willdfz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willdfz&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.shion.dev/api?username=WillDFz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=WillDFz&layout=compact&theme=radical)
 
 ## Contato
 
