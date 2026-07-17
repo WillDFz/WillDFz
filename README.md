@@ -7,8 +7,6 @@ Desenvolvedor FullStack
 
 <br>
 
-Desenvolvo interfaces modernas e responsivas com foco em performance, acessibilidade e boa experiência de uso. Trabalho principalmente com o ecossistema React / Next.js e Node.
-
 ## Tecnologias
 
 Principais tecnologias com as quais trabalho:
